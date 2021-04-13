@@ -15,6 +15,7 @@
 		A232C7342625C1AA00F3B5AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A232C7322625C1AA00F3B5AA /* LaunchScreen.storyboard */; };
 		A232C73F2625C1AA00F3B5AA /* cardsTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A232C73E2625C1AA00F3B5AA /* cardsTableViewTests.swift */; };
 		A232C74A2625C1AA00F3B5AA /* cardsTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A232C7492625C1AA00F3B5AA /* cardsTableViewUITests.swift */; };
+		A232C7582625C1C400F3B5AA /* Cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = A232C7572625C1C400F3B5AA /* Cards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A232C7452625C1AA00F3B5AA /* cardsTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cardsTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A232C7492625C1AA00F3B5AA /* cardsTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardsTableViewUITests.swift; sourceTree = "<group>"; };
 		A232C74B2625C1AA00F3B5AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A232C7572625C1C400F3B5AA /* Cards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				A232C7272625C1A500F3B5AA /* AppDelegate.swift */,
 				A232C7292625C1A500F3B5AA /* SceneDelegate.swift */,
 				A232C72B2625C1A500F3B5AA /* ViewController.swift */,
+				A232C7572625C1C400F3B5AA /* Cards.swift */,
 				A232C72D2625C1A500F3B5AA /* Main.storyboard */,
 				A232C7302625C1AA00F3B5AA /* Assets.xcassets */,
 				A232C7322625C1AA00F3B5AA /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				A232C72C2625C1A500F3B5AA /* ViewController.swift in Sources */,
 				A232C7282625C1A500F3B5AA /* AppDelegate.swift in Sources */,
 				A232C72A2625C1A500F3B5AA /* SceneDelegate.swift in Sources */,
+				A232C7582625C1C400F3B5AA /* Cards.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
